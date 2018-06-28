@@ -96,7 +96,7 @@ def test():
     print("tuple space search: %f" % (end - start))
 
     start = time.time()
-    print(liner_search(F, r)
+    print(liner_search(F, r))
     end = time.time()
     print("liner search: %f" % (end - start))
 
